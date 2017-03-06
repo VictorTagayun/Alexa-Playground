@@ -1,0 +1,7 @@
+{
+  "intents": [
+    {"intent": "ProvokeIntent"},
+    {"intent": "AMAZON.NoIntent"},
+    {"intent": "AMAZON.StopIntent"}
+  ]
+}
